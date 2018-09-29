@@ -1,4 +1,6 @@
-# Microsof Excel and Visual Basic Codes are used.
+2 Dimensional Cutting Optimization Project
+
+Microsof Excel and Visual Basic Codes are used.
 
 For more information; https://www.youtube.com/watch?v=fEMnxozABAo
 
